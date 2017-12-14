@@ -15,7 +15,6 @@ for ($arv = 1; $arv <= 10; $arv++) {
     echo '<font color="'.$varv.' " > '.$arv
         .'</font><br />';
 }
-
 //
 $a = 5; $b = 2;
 $c = $a++;
@@ -35,7 +34,6 @@ echo 'd = '.$d.'<br />';
 //
 $kord = 1;
 while($kord <=5){
-
     if ($kord == 3){
         break;
     }
@@ -45,13 +43,11 @@ while($kord <=5){
 $kord = 1;
 do
     {
-
     if($kord == 3){
         continue;
     }
         echo '<b>'.$kord++.'</b><br />';
 } while($kord <= 5);
-
 //
 $kord = 1;
 while($kord <=5){
