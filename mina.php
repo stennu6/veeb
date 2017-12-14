@@ -11,7 +11,4 @@ echo 'Minu nimi on'.$sten.'<br />';
 /**
  *
  */
-define('MINU_NIMI', 'Sten');
-MINU_NIMI = 'Stan';
-echo 'Minu nimi on'.MINU_NIMI.'<br />';
 ?>
