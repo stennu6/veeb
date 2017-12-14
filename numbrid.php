@@ -32,4 +32,14 @@ echo 'a = '.$a.'<br />';
 echo 'b = '.$b.'<br />';
 echo 'c = '.$c.'<br />';
 echo 'd = '.$d.'<br />';
+//
+$kord = 11;
+while($kord <=5){
+    echo '<i>'.$kord++.'</i><br />';
+}
+//
+
+do {
+    echo '<i>'.$kord++.'</i><br />';
+} while($kord <= 5);
 ?>
