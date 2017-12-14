@@ -33,7 +33,7 @@ echo 'b = '.$b.'<br />';
 echo 'c = '.$c.'<br />';
 echo 'd = '.$d.'<br />';
 //
-$kord = 11;
+$kord = 1;
 while($kord <=5){
     echo '<i>'.$kord++.'</i><br />';
 }
