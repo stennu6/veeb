@@ -37,7 +37,7 @@ $kord = 1;
 while($kord <=5){
     echo '<i>'.$kord++.'</i><br />';
     if ($kord == 2){
-        break
+        break;
     }
 }
 //
