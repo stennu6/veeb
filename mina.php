@@ -11,4 +11,6 @@ echo 'Minu nimi on'.$sten.'<br />';
 /**
  *
  */
+define('MINU_NIMI', 'Sten');
+echo 'Minu nimi on'.MINU_NIMI.'<br />';
 ?>
