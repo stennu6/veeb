@@ -16,5 +16,5 @@ function tabel ($sona1, $sona2, $sona3, $sona4){
         }
     echo '</table>';
 }
-tabel ('1','2', '3','4');
+tabel ('Kui rohkem küsimusi','pole', 'siis ma võin','lubada teid koju');
 ?>
